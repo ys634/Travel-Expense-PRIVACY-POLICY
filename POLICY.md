@@ -17,4 +17,4 @@ If you find any security vulnerability that has been inadvertently caused by me 
 <br><br>
 Best, <br>
 Yutaro Sakairi <br>
-yutaro.travel@outlook.com
+yutaro.develop@outlook.com
